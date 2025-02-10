@@ -11,6 +11,11 @@ Identify their most loyal customers. Reactivate inactive or at-risk customers. A
 This analysis provides actionable insights into customer behavior, enabling e-commerce businesses to develop tailored strategies for retention, reactivation, and growth. At the end of this project, you can explore detailed action plans designed for each customer segment to guide strategic decision-making effectively.
 
 The Data set contains 541909 observations of transaction From Different walmart shops. Corresponding to each we have to identiy the loyal customers.
+
+Libraries used
+Pandas, plotly, datetime, matplotlib, seaborn sklearn and math.
+
+
 |       Field Name      |    Data Type     | Description     |
 | :------------:|:-------------:|:-----:|
 |    InvoiceNo  |   Nominal   |  Invoice number, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.   |
